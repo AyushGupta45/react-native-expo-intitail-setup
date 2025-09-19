@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "BondVoyage",
-    "slug": "BondVoyage",
+    "name": "app-name",
+    "slug": "app-name",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "bondvoyage",
+    "scheme": "app-name",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
